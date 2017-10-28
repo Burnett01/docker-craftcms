@@ -12,7 +12,7 @@ Download:
 
 Compose:
 
-Check [CraftCMS-Acme](https://gitlab.com/Burnett01/craftcms-acme) for a boilerplate.
+Check [CraftCMS-Acme](https://github.com/Burnett01/craftcms-acme-docker) for a boilerplate.
 
 ---
 
